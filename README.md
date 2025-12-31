@@ -3,4 +3,4 @@
 🖥 Apaixonado por tecnologia, programação e games <br>
 🚀 Sempre buscando aprender algo novo
 </p>
-<sub>Estudante | Tecnologia | Programação | Games</sub>
+<sub>Estudante | Designer | Tecnologia | Programação | Games</sub>
